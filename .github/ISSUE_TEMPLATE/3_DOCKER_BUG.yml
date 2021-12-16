@@ -1,4 +1,4 @@
-name: Bug on the Docker version 
+name: 🐞🐋Bug on the Docker version 
 description: File a bug/issue related to the docker-based implementation of SELKS
 title: "🐞🐋 <title>"
 labels: [Bug, Docker, Triage]
